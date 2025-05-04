@@ -4,13 +4,13 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/SilvaTechB/silva-md-bot",
+  "repository": "https://github.com/OwneCO/silva-md-bot",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "51960285930;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
